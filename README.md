@@ -1,8 +1,9 @@
-#4 Koma [Makai Wars] Begins (translation script)
+# 4 Koma [Makai Wars] Begins (translation script)
 
-####４コマ「まかいうぉ〜ず」はじめました。
+#### ４コマ「まかいうぉ〜ず」はじめました。
 
-![ep01.png](https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep01.png)
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep01.png">
+
 ## 01.png
 #### Panel 1
 |JP|EN|
@@ -31,7 +32,8 @@
 |ガーン| GASP
 |ああっ主人公ぽい| Aaah! She's so protagonisty!
 
-![ep02.png](https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep02.png)
+
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep02.png">
 ## 02.png
 #### Panel 1
 |JP|EN|
@@ -61,6 +63,7 @@
 |ひい|hiiiii
 |…も、もうそれいじょうは！|T-that's going too far!
 
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep03.png">
 ## 03.png
 #### Panel 1
 |JP|EN|
@@ -86,6 +89,7 @@
 |いいからこいつら持って帰ってよ！|
 |こんなゲームではありません|
 
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep04.png">
 ## 04.png
 #### Panel 1
 |JP|EN|
