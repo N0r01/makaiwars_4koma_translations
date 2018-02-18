@@ -1,6 +1,8 @@
 #4 Koma [Makai Wars] Begins (translation script)
+
 ####４コマ「まかいうぉ〜ず」はじめました。
 
+![ep01.png](https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep01.png)
 ## 01.png
 #### Panel 1
 |JP|EN|
@@ -29,6 +31,7 @@
 |ガーン| GASP
 |ああっ主人公ぽい| Aaah! She's so protagonisty!
 
+![ep02.png](https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep02.png)
 ## 02.png
 #### Panel 1
 |JP|EN|
