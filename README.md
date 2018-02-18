@@ -32,8 +32,8 @@
 |ガーン| GASP
 |ああっ主人公ぽい| Aaah! She's so protagonisty!
 
-
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep02.png">
+
 ## 02.png
 #### Panel 1
 |JP|EN|
@@ -64,67 +64,53 @@
 |…も、もうそれいじょうは！|T-that's going too far!
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep03.png">
+
 ## 03.png
 #### Panel 1
 |JP|EN|
 |---|---|
-|「魔界ウォーズ」ってどんなゲームなんだろうー？|
-|うーん|
-|アサギが主人公って情報以外謎だよね|
+|「魔界ウォーズ」ってどんなゲームなんだろうー？|What kind of game is Makai Wars?
+|うーん| Umm....
+|アサギが主人公って情報以外謎だよね|Other than that Asagi's going to be the protagonist, I don't know.
 #### Panel 2
 |JP|EN|
 |---|---|
-|スマホゲームと言えばガチャよね！|
-|新たなアサギさんをみつけましょ！|
+|スマホゲームと言えばガチャよね！| It's a smartphone game with gatcha!
+|新たなアサギさんをみつけましょ！| Let's try to roll for the new Asagi-san!
 #### Panel 3
 |JP|EN|
 |---|---|
-|超レアGET！　レアGET！レアGET！|
-|やら　やら|
+|超レアGET！激レアGET！レアGET！|Super Rare GET! Extreme Rare GET! Rare GET!
+|やら　やら|(SFX: chatter)
 #### Panel 4
 |JP|EN|
 |---|---|
-|欲しかったアサギさんは手に入ったかしら⁉︎|
-|ブブブ|
-|いいからこいつら持って帰ってよ！|
-|こんなゲームではありません|
+|欲しかったアサギさんは手に入ったかしら⁉︎|Did you roll the Asagi-san who you wanted, I wonder!?
+|ブブブ|(SFX: buzzz)
+|いいからこいつら持って帰ってよ！| Whatever, just take these guys back!
+|こんなゲームではありません|It's actually not going to be like that type of game.
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep04.png">
+
 ## 04.png
 #### Panel 1
 |JP|EN|
 |---|---|
-|コラボ記念とかいうやつで衣装を取り替えてやったぞ！|
-|イワシ|
+|コラボ記念とかいうやつで衣装を取り替えてやったぞ！|Let's celebrate this collaboration by swapping costumes!
+|イワシ|Pilchard
 #### Panel 2
 |JP|EN|
 |---|---|
-|ファンサービスってやつね！まあ、アタシが目立てばよし！|
+|ファンサービスってやつね！まあ、アタシが目立てばよし！|Oh, this is like fanservice, right!? I do love standing out!
 |…|
 #### Panel 3
 |JP|EN|
 |---|---|
-|や、やめろ！そのムチムチを近づけるな！|
-|ひどいーい！|
-|ブン　ブン|
-|いいなあ……私も取り替えっこしたいなあ…|
+|や、やめろ！そのムチムチを近づけるな！|S-Stop it! Get your sexiness away!
+|ひどーい！|How terrible!
+|ブン　ブン|(SFX: shake shake)
+|いいなあ……私も取り替えっこしたいなあ…|How wonderful... I'd like to trade my costume too...
 #### Panel 4
 |JP|EN|
 |---|---|
-|ポンッ|
-
-
-
-#TEMPLATE ❤︎♫
-## 0
-#### Panel 1
-|JP|EN|
-|---|---|
-||
-||
-
-#### Panel 
-|JP|EN|
-|---|---|
-||
-||
+|ポンッ|(SFX: pat)
