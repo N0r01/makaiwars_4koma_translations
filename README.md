@@ -2,6 +2,8 @@
 
 #### ４コマ「まかいうぉ〜ず」はじめました。
 
+Original source: https://makaiwars-sp.jp/comic/
+
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep01.png">
 
 ## 01.png
