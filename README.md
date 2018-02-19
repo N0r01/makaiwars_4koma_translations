@@ -116,3 +116,30 @@ Original source: https://makaiwars-sp.jp/comic/
 |JP|EN|
 |---|---|
 |ポンッ|(SFX: pat)
+
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep05.png">
+
+## 05.png
+#### Panel 1
+|JP|EN|
+|---|---|
+|みんなー元気ー！？アサギだよー‼︎|How is everyone!? It's me, Asagi!!
+|夏休み何して遊んでる⁉︎|What are you doing for fun this summer!?
+
+#### Panel 2
+|JP|EN|
+|---|---|
+|私はね山に虫取りに行ったり|I went to the mountains to catch some bugs
+|海にイワシを釣りに行ったり|And I went to the beach to go fishing for pilchards
+
+#### Panel 3
+|JP|EN|
+|---|---|
+|あはは　はは|Ahaha haha
+|とってもたのし〜❤︎|So much fun〜❤︎
+|主人公|protagonist
+
+#### Panel 4
+|JP|EN|
+|---|---|
+|……ゆ、夢か…|I-It was just a dream...
