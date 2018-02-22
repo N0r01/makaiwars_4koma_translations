@@ -55,7 +55,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |ずいっ|(SFX: staring)
 |まんが|manga
 |プロテインもあるよ⁉︎|There's even protein!
-|むち　むち|(SFX: plump, bouncy)
+|むち　むち|(SFX: flex)
 #### Panel 4
 |JP|EN|
 |---|---|
@@ -90,7 +90,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |欲しかったアサギさんは手に入ったかしら⁉︎|Did you roll the Asagi-san who you wanted, I wonder!?
 |ブブブ|(SFX: buzzz)
 |いいからこいつら持って帰ってよ！| Whatever, just take these guys back!
-|こんなゲームではありません|It's actually not going to be like that type of game.
+|こんなゲームではありません|It's actually not going to be like that type of game.💧
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep04.png">
 
@@ -99,7 +99,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |JP|EN|
 |---|---|
 |コラボ記念とかいうやつで衣装を取り替えてやったぞ！|Let's celebrate this collaboration by swapping costumes!
-|イワシ|Pilchard
+|イワシ|Sardines
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -130,7 +130,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |JP|EN|
 |---|---|
 |私はね山に虫取りに行ったり|I went to the mountains to catch some bugs
-|海にイワシを釣りに行ったり|And I went to the beach to go fishing for pilchards
+|海にイワシを釣りに行ったり|And I went to the beach to go fishing for sardine
 
 #### Panel 3
 |JP|EN|
@@ -193,12 +193,15 @@ Original source: https://makaiwars-sp.jp/comic/
 |---|---|
 |カレーだぴょん！|Curry!
 |パチ　バチ|(SFX: crackle)
-|イワシだ！|Pilchard!
+|イワシだ！|Sardines!
 |ちょ…他の人の意見も聞きましょうよ|Let's hear the opinions of others.
 #### Panel 4
 |JP|EN|
 |---|---|
 |では多数決ということで|Let's decide via majority rule.
+|ログインボーナス|Login bonus
+|カレー IIIIIII|Curry IIIIIII
+|イワシ IIIIIII|Sardines IIIIIII
 |ざわ　ざわ|(SFX: zawa/uneasy)
 |んむ〜っ|(SFX: hmph)
 |ぷる　ぷる|(SFX: shaking)
@@ -210,32 +213,33 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|「魔界ウォーズ」の開発現場に来てみたわよ！| 
-|カタ　カタ　カタ|
-|プリニーたらが必死にデバッグをしているわね…|
+|「魔界ウォーズ」の開発現場に来てみたわよ！| Reporting live here with the developers of Makai Wars!
+|カタ　カタ　カタ| (SFX:type type type)
+|プリニーたらが必死にデバッグをしているわね…|These prinnies are frantically debugging aren't they...
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|まだこれだけしか出来てないの⁉︎| 
-|フリッグ| 
-|キッ| 
-|うう…ッス…| 
+|まだこれだけしか出来てないの⁉︎|Are you giving me just this little again!?
+|フリッグ| Frigg
+|キッ| (SFX:glare)
+|うう…ッス…| Uuuh...dood..
 
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-||
-||
-||
+|お仕置きの時間よう…♪|It's punishment time...♪
+|ビシッ　ビシッ　ビシッ|(SFX: thwack thwack thwack)
+|ヒッ|Hiiii
+|あああーッス〜！|AAAGGGGHHH-DOOOD
+|想像以上にブラック|Exploitation worse than imagined!?
 
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|エトナ様しごきに比べたら褒美ッス|Compared to Etna's hazing, this is a reward❤︎
+|…現場からは以上です|Reporting from the location, that is all.
+|ハァ❤︎　ハァ❤︎　ハァ❤︎|Haa❤︎ Haa❤︎ Haa❤︎
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep09.png">
 
@@ -243,26 +247,34 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
+|「まかいウォーズ」の４コマの連載おねがいしていい？| Can you do the 4-koma serialization for Makai Wars?
+|ユングヴィ|Yngvi
+|ぎゃーッ|Gyaaa
+|そんな…！これ以上連載を増やしたら死んでしまいます！| Oh no...! If I need to do any more serializations, I'm going to work to death!
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
+|へーきへーき！プリニー君たちが手伝ってくれるって|No worries! The prinnies will be helping you out
+|おーっ！| Yeaaah!
+|α切厳守‼︎|deadline or bust
+|日本一アシツタン|NIS assistant
+|なんと…！心強い…‼︎|How...! Heartening...!
 
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
+|あー‼︎はみ出したッス〜！|Agh! I inked out of the lines~!
+|ぐちよっ|(SFX:splat)
+|べとっ|(SFX:wipe wipe)
+|トーンってこれくらい貼ればイイっスかね？|Is it okay to use half-tones like this?
 
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|ハラ…　ハラリ…　ハラリ…|\*Whimper\*...\*Whimper\*...\*Whimper\*...
+|みかん|Oranges
+|ああっ…！　ユングヴィ先生の毛根|Aah..! Yngvi's hair is thinning...
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep10.png">
 
@@ -270,27 +282,30 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
+|ちょっと！この４コマ最近私が全然出てないじゃない！| Hold it! I haven't appeared in this 4-koma in a while haven't I!
+|バァンッ|(SFX:Bang)
+|うわああ！なんですかあなたー⁉︎|Uwaaa! What do you want!?
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
+|「まかいウォーズ」主人公はこの私よ⁉︎|I'm the main character of Makai Wars, aren't I!?
+|ほら、ちょっと、ここに描いてみて！作画チェクよ‼︎|Try drawing me on this! Let's see what you can do!!
+|は、はあ…|O-Okay... 
 
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
+|ふん……　ま、まあまあね|hmph...not bad not bad
+|ジャーン！|(SFX:tadah)
 
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
-
+|あと、ここにアサギちゃんへ❤︎って描いて！|Now write "Asagi❤︎" here too!
+|でへへ|De heh heh
+|……早く帰らないかな…？|...Please just go away...?
+|α切が……|Oh my deadlines...
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep11.png">
 
 
@@ -299,26 +314,33 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
+|主人公には忠実な部下が必要ね！|A protagonist needs faithful followers, don't they!
+|ラハール殿下〜っ|Prince Laharl, your Highness〜
+|ヴァル閣下‼︎|Valvatorez, your Excellency!!
+|そ…そうッスかね？|I-Is...that so?
+|ふんすっ| hmph
+|忠実？| faithful...?
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
+|…というわけでメイドちゃんを雇いました‼︎|...So I've hired a maid!!
+|にゃはーっ| Nyaha~
+|ヒユー| (SFX:woosh)
+|ドロ　ドロ　ドロ|(SFX: gloom gloom gloom)
+|うふふ❤︎|Ufufu❤︎
 
 #### Panel 3
 |JP|EN|
 |---|---|
 |にこ　にこ|(SFX: smile smile)
-|私のことはご立派な主人公のアサギ様とよんでね？|
-
+|私のことはご立派な主人公のアサギ様とよんでね？|Why don't you try calling me, Main Best Character Asagi?
+ 
 #### Panel 4
 |JP|EN|
 |---|---|
-|…略してご主人様でもいーい？|
-|ご立派な主人公のアサギ様|Magnificent Protagonist, Asagi the Pistoleer -> Master
+|…略してご主人様でもいーい？|...Couldn't we shorten it to just "Master"?
+|ご立派な主人公のアサギ様|Main Best Character Asagi -> Master
 |許可します！|I approve it!
 |いいっすか？|Is that okay, dood?
 
@@ -329,14 +351,21 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
+|その称号をいただけば我が「魔界ウォーズ」の主人公になれるのか？| 
+|マオ|
+|ゴゴゴ…| 
+|ハア　ハア|
+|ハッ| 
+|「ご立派な主人公のアサギ様」|
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
+|駄目ーっ！１３年かけて手に称号なのにーっ！| 
+|ぎゅーう〜っ| 
+|よーこーせえーっ| 
+|ハァ　ハァ　ハァ|
+|マオやめてあげなよー！|Mao, stop it! 
 
 #### Panel 3
 |JP|EN|
