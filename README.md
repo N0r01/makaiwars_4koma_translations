@@ -351,33 +351,41 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|その称号をいただけば我が「魔界ウォーズ」の主人公になれるのか？| 
-|マオ|
-|ゴゴゴ…| 
-|ハア　ハア|
-|ハッ| 
-|「ご立派な主人公のアサギ様」|
+|その称号をいただけば我が「魔界ウォーズ」の主人公になれるのか？|If I took that title from you, I'll be the main character wouldn't I?
+|マオ|Mao
+|ゴゴゴ…|(SFX:menancing) 
+|ハア　ハア|Haa Haa
+|ハッ| HA
+|「ご立派な主人公のアサギ様」|Asagi, Magnificent Main Character
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|駄目ーっ！１３年かけて手に称号なのにーっ！| 
-|ぎゅーう〜っ| 
-|よーこーせえーっ| 
-|ハァ　ハァ　ハァ|
+|駄目ーっ！１３年かけて手に称号なのにーっ！| No way! I've waited 13 years for this title!
+|ぎゅーう〜っ|SFX:Squeeze
+|よーこーせえーっ| LET IT GO
+|ハア　ハア|Haa Haa
 |マオやめてあげなよー！|Mao, stop it! 
 
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|このご主人様を倒しても第二第三のご主人様が|Even if you defeat the Main Character, the 2nd and 3rd Main Characters...
+|私よ|It's me!
+|黒あさぎ|Black Asagi
+|主人公ですわ〜っ|I'm the Main Character〜
+|アイドルアサギ|Idol Asagi
+|うわぁあああ〜ん|Uwaaaah
+|泣き虫アサギ|Crybaby Asagi
+|ブル　プル|
+|マオ様の前にたちはだかるよ〜〜❤︎|...will come to stand in your way, Mao〜❤︎
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|くそっアサギのくせに！|Damn you, Asagi!
+|面倒だな‼︎|How annoying!!
+|あれ…これだと私ラスボスみたいじゃないあい？|It's like... I'm the final boss or something?
+|ラスボスはデスコデスよ！！|The final boss is Desco!
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep13.png">
 
@@ -385,53 +393,61 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
-
+|暑中お見舞い申し上げます〜♪|Have a nice summer everyone〜♪
+|ヒュオ　オ　オ　オ| (SFX: Hooowwl)
+|…もう初冬|...Isn't it winter already dood!?
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|「魔界ウォーズ」の主題歌のためにバンドを組んだの！| Let's get the band together and sing Makai War's theme song!
+|キャラソンを唄うわよ〜❤︎|Let's sing my image song〜❤︎
+|行くわよっ☆　せーのっ❤︎|Let's go☆ Get ready〜❤︎
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|その名〜もダア〜クヒ〜ロォ〜♪　アークターレェェ〜♪|that name is also the Dark Hero〜♪ Axel!〜♪
+|シャカ　シャカ|clack clack
+|ボェェェェェ|fwoosh
+|にゃーんにゃにゃにゃ〜♪（くくく…愛くるしいにゃ！）|Nyaan nya nya nyaa♪ (kukuku...lovely & cute nyaa!)
+|ちょ…！ボーカルは私！|Wait...! I'm doing the vocals here!
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
-
+|やってられないわ！|I can't do this anymore!
+|こっちのセリフだ！|That's my line!
+|にゃああ！|Nyaaaaaa!
+|音楽性の違いにより解散しました。|Due to creative differences, they disbanded.
+|キーッ|reeeee
+|ムキーッ|grr
+|シャァーッ|Hisss
+|のしのし|Stomp stomp
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep14.png">
 
 ## 14.png
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
-
+|スマホってなあに？|What's a smartphone? 
+|え…今ッスか…！？|Wha- You're asking now dood!?
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|日本一ソフトウェアさんがねゲームに出るとハードとソフトをくれるんだ|Nippon Ichi Software gave me all the game systems that I've appeared in
+|わくわく| (SFX:excited)
+|どちやっ|Which?
+|この中にある？|Is it one of these?
+|無いッス。|No dood.
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|ご主人様〜携帯電話だよ〜これこれ|Master〜It's a cellphone〜like this one
+|なんだ！それならもってるわ！|Well! In that case, I've already got one!
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|ほらっ|Look!
+|ババアン！|TA- DAH
+|お約束う〜〜❤︎|What a cliché joke〜❤︎
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep15.png">
 
@@ -439,26 +455,34 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
+|あら…　スマホもってなかったの？| Oh dear... you don't have a smartphone?
+|じゃあ買いにいきましょう|Let's shop for one then.
+|わーいやったー！❤︎　オススメ教えてね！|Yay!❤︎ Please recommend on for me!
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|…ご新規様？ここに必要事項をご記入してね|...Applying for a new subscription? Please fill in this paperwork.
+|ぴらっ| （sfx:flip)
+|はーい！| Okay!
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|職業……主人公…っと|Occupation...Main Character...
+|ご契約書|Contract
+|名前　朝霧　アサギ|Name: Asagi Asagiri
+|性別　女|Gender: Female
+|ところ|Address
+|岐阜県　アサギの小部屋|Gifu Prefecture, Asagi's bedroom
+|ご職業: 主人公| Occupation: Main Character
+|カリ　カリ　カリ|scribble scribble
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|よかったね！！|Isn't that nice!!
+|よかったッスね！！|That's great dood!!
+|ううううう|cry cry
+|ぐすっ　ぐすっ|sob sob
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep16.png">
 
@@ -466,26 +490,24 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
-
+|「魔界ウォーズ」はマス目に区切られたフィールド上で| Makai Wars is a game where super-deformed 
+|ミニキャラがバトルするゲームらしいよ〜|characters battle on a field that's divided into squares.
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|ということで〜ミニキャラに変身するよ〜| Let's get super-deformed〜
+|ボムンッ| poof
+|ほいっ☆| Hoi☆
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|ババーン‼︎|Ta-dah!!
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|ちょっと〜！なんで私だけドツト絵なのよっ!|Hold it! Why am I the only one who's pixelated!?
+|ゴゴゴゴ|(SFX:menacing)
+|容量節約だよね〜|We're saving disk space〜
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep17.png">
 
@@ -493,9 +515,9 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
-
+|みんな〜良いお年を〜〜❤︎|Happy New Year everyone〜❤︎
+|来年こそは主人公になります！|I'm going to be the Main Character next year!
+|ゲームの配信までもうしばらくお持ち下さいッス！|Please look forward to the game's release, dood!
 #### Panel 2
 |JP|EN|
 |---|---|
