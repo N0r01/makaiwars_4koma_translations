@@ -523,20 +523,21 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|お正月用の晴着だよ！撮って撮って|I'm wearing my best clothes for New Years! Take my picture❤︎
+|早速スマホ活用してるッスね！|She got used to using smartphones fast dood!
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|うわあ〜フォルダ全部自撮りとか…引くわぁ〜|Woah〜 Her album's full of selfies
+|ヒッ|EEP
+|む〜っなんでしょーっ！|Augh~ What are you doing!
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|主人公と初詣なう❤︎　に使っていいよ！|Let's put this under "Main Character Hatsumōde❤︎"
+|バチーンッ|(SFX: sparkle) 
+|ご主人様調子乗りすぎ〜|Master is getting too carried away~
+Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese New Year.
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep18.png">
 
@@ -544,26 +545,39 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
-
+|ああけまままじでおめでどうっっ| H-Happy N-N-New Y-Y-Ye-ar E-Every-One
+|ビユオオオオ|(SFX: Wooosh)
+|ガタガタ|(SFX: clatter clatter)
+|ズビッ|sniffle
+|あけおめ〜| New years~
+|ごっとよろっズ| H-Happy N-N-New Y-Y-Ye-ar Dood
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|って寒すぎるでしょう⁉︎|Hey, isn't it way too cold here!?
+|ゴォォォ|(SFX: fwoosh)
+|ブル　ブル|(SFX: shiver)
+|コチーン| (SFX: freezes)
+|「魔界ウォーズ」にはこういうステージが用意されてるんだって〜| This is just one of the levels planned in Makai Wars〜
+|雪原の他にも…| In addition to tundras...
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|①火山|①Volcanos
+|ドオオオンッ|(SFX:BOOOM)
+|おついよ〜|Too hot〜
+|②コ○ケ会場|②Conventions
+|ギュム〜ッ|(SFX: squeeze)
+|③温泉❤︎|③Hot Springs
+|ぺた…|flat...
+|④異次元|④Alternate Universes
+|またこの姿〜⁉︎|This form again!?
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|さてこの中で本当にあるステージはど〜れだ？|Which is the correct answer among these choices?
+|ちょっと〜っ　助けてよ〜っ|Waaait〜 Heeelp meeee〜
+|正解は配信後ッス|Solution after these messages dood!
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep19.png">
 
