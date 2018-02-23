@@ -4,7 +4,7 @@
 
 Original source: https://makaiwars-sp.jp/comic/
 
-[This translation is licensed under public domain.](#LICENSE)
+[This translation is licensed under public domain. See final section below](#license)
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep01.png">
 
@@ -619,8 +619,8 @@ Original source: https://makaiwars-sp.jp/comic/
 ||
 ||
 
-# LICENSE
-
+## LICENSE
+<a name="license"></a>
 This is free and unencumbered translation released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this translation, for any purpose, commercial or non-commercial, and by any means.
 
 In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this
