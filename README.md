@@ -14,16 +14,16 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 2
 |JP|EN|
 |---|---|
-|私が今回の主人公のアサギよ！|I, Asagi am the protagonist this time!
+|私が今回の主人公のアサギよ！|I, Asagi am the main character this time!
 |やってやるわよ〜っ！|Let's do this~!
 |暑苦しいッス…！|So hot dood...!
 |メラ　メラ|(SFX: burning)
 #### Panel 3
 |JP|EN|
 |---|---|
-|キサマの主人公が務まるものか！|Like you're fit to be the protagonist?!
+|キサマの主人公が務まるものか！|Like you're fit to be the main character?!
 |ムキーッ|Grrrr...
-|やっぱりアタシが主人公に…|Of course I'm the best protagonist...
+|やっぱりアタシが主人公に…|Of course I'm the best main character...
 |いいえ！　ここは私が！| No way! It's me!
 |ぷにっ|(SFX:boing)
 #### Panel 4
@@ -32,7 +32,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |ティスガイアシリーズとゆるドラシルが送る夢のコラボだ|It's the Yurudrasil and Disgaea collaboration of your dreams!
 |お楽しみに！|Look forward to it!
 |ガーン| GASP
-|ああっ主人公ぽい| Aaah! She's so protagonisty!
+|ああっ主人公ぽい| Aaah! She's so main charactery!
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep02.png">
 
@@ -40,7 +40,7 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|「魔界ウォーズ」の主人公としてビシビシ鍛えるわよっ！|Let's train you up to be the protagonist of Makai Wars!
+|「魔界ウォーズ」の主人公としてビシビシ鍛えるわよっ！|Let's train you up to be the main character of Makai Wars!
 |頑張るわ！|I'll do my best!
 #### Panel 2
 |JP|EN|
@@ -73,7 +73,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |---|---|
 |「魔界ウォーズ」ってどんなゲームなんだろうー？|What kind of game is Makai Wars?
 |うーん| Umm....
-|アサギが主人公って情報以外謎だよね|Other than that Asagi's going to be the protagonist, I don't know.
+|アサギが主人公って情報以外謎だよね|Other than that Asagi's going to be the main character, I don't know.
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -137,7 +137,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |---|---|
 |あはは　はは|Ahaha haha
 |とってもたのし〜❤︎|So much fun〜❤︎
-|主人公|protagonist
+|主人公|main character
 
 #### Panel 4
 |JP|EN|
@@ -314,7 +314,7 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 1
 |JP|EN|
 |---|---|
-|主人公には忠実な部下が必要ね！|A protagonist needs faithful followers, don't they!
+|主人公には忠実な部下が必要ね！|A main character needs faithful followers, don't they!
 |ラハール殿下〜っ|Prince Laharl, your Highness〜
 |ヴァル閣下‼︎|Valvatorez, your Excellency!!
 |そ…そうッスかね？|I-Is...that so?
