@@ -222,7 +222,7 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 2
 |JP|EN|
 |---|---|
-|まだこれだけしか出来てないの⁉︎|Are you giving me just this little again!?
+|まだこれだけしか出来てないの⁉︎|You've gotten only this much done!? Again!?
 |フリッグ| Frigg
 |キッ| (SFX:glare)
 |うう…ッス…| Uuuh...dood..
@@ -234,13 +234,13 @@ Original source: https://makaiwars-sp.jp/comic/
 |ビシッ　ビシッ　ビシッ|(SFX: thwack thwack thwack)
 |ヒッ|Hiiii
 |あああーッス〜！|AAAGGGGHHH-DOOOD
-|想像以上にブラック|Exploitation worse than imagined!?
+|想像以上にブラック|Worker exploitation worse than imagined!?
 
 #### Panel 4
 |JP|EN|
 |---|---|
-|エトナ様しごきに比べたら褒美ッス|Compared to Etna's hazing, this is a reward❤︎
-|…現場からは以上です|Reporting from the location, that is all.
+|エトナ様しごきに比べたら褒美ッス|Compared to Etna's abuse, this is a reward❤︎
+|…現場からは以上です|Reporting live at the scene, that is all.
 |ハァ❤︎　ハァ❤︎　ハァ❤︎|Haa❤︎ Haa❤︎ Haa❤︎
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep09.png">
@@ -252,7 +252,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |「まかいウォーズ」の４コマの連載おねがいしていい？| Can you do the 4-koma serialization for Makai Wars?
 |ユングヴィ|Yngvi
 |ぎゃーッ|Gyaaa
-|そんな…！これ以上連載を増やしたら死んでしまいます！| Oh no...! If I need to do any more serializations, I'm going to work to death!
+|そんな…！これ以上連載を増やしたら死んでしまいます！| Oh no...! If I need to do any more serializations, I'm going to work myself to death!
 
 #### Panel 2
 |JP|EN|
@@ -585,53 +585,64 @@ Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese N
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
+|魔界ウォーズっていろんなスキルがあるんだって！| So I've heard that Makai Wars includes all kinds of skills!
+|ご主人様スキルは二種類あるって知ってた〜？|Master, did you know that there's two types of skills?
 
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|スキル【不遇】| Skill: Misfortune
+|（いつもでたっても主人公になれないスキル）|(The ability to appear everywhere, and yet to never become the main character)
+|常時発動型の「パッシブスキル」と| It's a passive-type skill that's always active!
+|ギリ　ギリ　ギリ| (SFX:grind grind grind)
+|ふぐっ⁉︎| Fugu!?
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
-
+|スキル【次回作主人公】|Skill: I'm the Main Character Next Time
+|（使うと主人公の予定が延期される）|(When used, Asagi's appearance as Main Character is postponed even more)
+|ターンごとに発動する「アクティブスキル」だよ〜|It's an active-type skill that can be used every other turn〜
+|いやあああ！|NOOOOOOOO
+|ガーンッ|(SFX: shock)
+|ハラリ…|(SFX:whimper)
+|暑中お見舞い申し上げます❤︎|Have a nice summer❤︎
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
-
+|う、上の２つのスキルは例え話だよ…ね…⁉︎　ね⁉︎|T-Those two skills are just jokes right!? Right!?
+|ガク　ガク|　（SFX：shake)
+|お楽しみだよね〜❤︎|Please look forward to it❤︎
+|メイドちゃんんん‼︎|MAIDO-CHAAAN
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep20.png">
 
 ## 20.png
 #### Panel 1
 |JP|EN|
 |---|---|
-|| 
-||
-
+|…二人ともその「❗️」はなあに？|Hey you two, what does that "❗️" mean? 
 #### Panel 2
 |JP|EN|
 |---|---|
-|| 
-|| 
-
+|隣り合うキャラが連携攻撃が出来る合図だよ〜！| It means that you can do a combo attack with the character next to you〜!
+|プリニーちゃん行くよ〜| Prinny-chan, let's go〜!
+|OKッス！| Okay dood!
+|すごい！私もやりたい！| Awesome! I wanna do it too!
+|ポイッ| (SFX:toss)
+|カコンッ| (SFX:clang)
+|バシッ| (SFX: thwack)
+|ゴミ箱シュート|Trash cam 
 #### Panel 3
 |JP|EN|
 |---|---|
-||
-||
+|ご主人様の後ろでヒルドちゃんが「❗️」出してるよ〜|Hildr's got a "❗️" behind you, Master〜
+|その「❗️」は私と連携攻撃したいの⁉︎|Can I use that "❗️" to do a combo attack?
 
 #### Panel 4
 |JP|EN|
 |---|---|
-||
-||
+|…ううん アサギちゃんの凄い寝癖に「❗️」っす！|Nah...It's just a "❗️" on Asagi's crazy bed hair!
+|ぐちゃっ|Messy
+|ぷっ|Snicker
 
 ## LICENSE
 <a name="license"></a>
