@@ -222,7 +222,7 @@ Original source: https://makaiwars-sp.jp/comic/
 #### Panel 2
 |JP|EN|
 |---|---|
-|まだこれだけしか出来てないの⁉︎|You've gotten only this much done!? Again!?
+|まだこれだけしか出来てないの⁉︎|You've gotten only this little done!? Again!?
 |フリッグ| Frigg
 |キッ| (SFX:glare)
 |うう…ッス…| Uuuh...dood..
@@ -319,7 +319,7 @@ Original source: https://makaiwars-sp.jp/comic/
 |主人公には忠実な部下が必要ね！|A main character needs faithful followers, don't they!
 |ラハール殿下〜っ|Prince Laharl, your Highness〜
 |ヴァル閣下‼︎|Valvatorez, your Excellency!!
-|そ…そうッスかね？|I-Is...that so?
+|そ…そうッスかね？|I-Is...that so dood?
 |ふんすっ| hmph
 |忠実？| faithful...?
 
@@ -613,6 +613,7 @@ Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese N
 |ガク　ガク|　（SFX：shake)
 |お楽しみだよね〜❤︎|Please look forward to it❤︎
 |メイドちゃんんん‼︎|MAIDO-CHAAAN
+
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep20.png">
 
 ## 20.png
@@ -643,6 +644,39 @@ Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese N
 |…ううん アサギちゃんの凄い寝癖に「❗️」っす！|Nah...It's just a "❗️" on Asagi's crazy bed hair!
 |ぐちゃっ|Messy
 |ぷっ|Snicker
+
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep21.png">
+
+## 21.png
+#### Panel 1
+|JP|EN|
+|---|---|
+|連携の練習いきますぴょん|Let's begin training, plip!
+|任せて！|Leave it to me!
+|おう！|YEAH!
+|いいだろう！|Alright!
+#### Panel 2
+|JP|EN|
+|---|---|
+|オレが切る！|I'll dice it!
+|オレさまが焼く‼︎|I'll grill it!
+|ザ|(SFX:chop)
+|ゴォォォ|(SFX:roar)
+|シュッ|(SFX:whoosh)
+#### Panel 3
+|JP|EN|
+|---|---|
+|そして私が煮込む！|And I'll boil it!
+|…ん？|...huh?
+|ぐっ　ぐっ　ぐっ|(SFX:boil)
+|ぱく　ぱく　ぱく|(SFX:glup)
+|最後にウサリアが食べますぴょん|And finally, I'll eat it plip!
+#### Panel 4
+|JP|EN|
+|---|---|
+|免許皆伝ですぴょん❤︎| I'm the master now! plip. ❤︎
+|おい‼︎ｘ３|HEY!! x3
+|おかわりっ|Now gimme seconds
 
 ## LICENSE
 <a name="license"></a>
