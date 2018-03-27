@@ -678,6 +678,40 @@ Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese N
 |おい‼︎ｘ３|HEY!! x3
 |おかわりっ|Now gimme seconds
 
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep22.png">
+
+## 22.png
+#### Panel 1
+|JP|EN|
+|---|---|
+|「魔界ウォーズ」配信開発!|"Makai Wars" has begun!
+|おめでとうございます！|Congratulations!
+|イエーイ‼︎|YAY!!
+|パーンッ|(sfx: pop)
+#### Panel 2
+|JP|EN|
+|---|---|
+|苦節１３年…少女高性アサギは|It's been a hard 13 years... Asagi the High schooler
+|ついに主人公になれました！|has finally become a main character!
+|おめでとうアサギちゃん|Congrats, Asagi-chan
+|パチ　パチ　パチ|(sfx: clap clap clap)
+#### Panel 3
+|JP|EN|
+|---|---|
+|…ご主人様って１３前から女子高生なの〜？|...But Master, hasn't it been 13 years since you were in high school~?
+|メイドちゃんそこは流して…|Maid-chan, you're not supposed to...
+|ねえ　ねえ|hey hey
+#### Panel 4
+|JP|EN|
+|---|---|
+|じゃあ今アラサー|So that means you're a thirty-something...?
+|朝霧アサギは永遠の次回主人公から|Asagiri Asagi becoming the main character was eternally delayed, so that means
+|永遠の女子高生主人公になりますっ！　なりました‼︎|she should also be eternally a main character in high school!    (I mean she *is*)
+|これからもよろしくッス！|Thanks for your support from now on, dood!
+|わた　わた|(sfx:flutter flap)
+|うわあーっ|WOW OOPS
+
+
 ## LICENSE
 <a name="license"></a>
 This is a free and unencumbered translation released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this translation, for any purpose, commercial or non-commercial, and by any means.
