@@ -711,6 +711,8 @@ Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese N
 |わた　わた|(sfx:flutter flap)
 |うわあーっ|WOW OOPS
 
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep23.png">
+
 ## 23.png
 #### Panel 1
 |JP|EN|
