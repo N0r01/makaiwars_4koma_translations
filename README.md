@@ -711,6 +711,37 @@ Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese N
 |わた　わた|(sfx:flutter flap)
 |うわあーっ|WOW OOPS
 
+## 23.png
+#### Panel 1
+|JP|EN|
+|---|---|
+|次のクエスト装備が少し不安|I'm a little worried about equipment for the next the quest. 
+|これ使って！|Use this!
+|じゃら〜っ|(sfx:ka-ching)
+|ちゃりーんっ|(sfx:jingle)
+|レベル足りないかしら？|Do we not have enough levels?
+|強化しとこう！|Let's level up!
+#### Panel 2
+|JP|EN|
+|---|---|
+|主人公として仲間のステータスは常に気を使ってるんだ❤︎|It's the main character's role to take care of her friends!❤︎
+|ふふっ|fufu
+|さすがご主人様〜|As usual for Master~
+#### Panel 3
+|JP|EN|
+|---|---|
+|装備万端最強メンバーで行ってくるわ！|Everyone's who is upgraded is going!
+|バイバーイ|Alright
+|アサギさんお留守番よろしくね❤︎|Asagi, we'll leave the house-sitting to you❤︎
+|んんんんんんんん？|HUH?
+#### Panel 4
+|JP|EN|
+|---|---|
+|自分の強化忘れたああああ！！|I forgot to level-up myself!!!!
+|ふええ|CRY
+|カラ…|out of money
+|ヘルのご利用は計画的に〜|Please carefully plan out your usage of Hel~
+|置いてかないで〜|Don't leave me here~
 
 ## LICENSE
 <a name="license"></a>
