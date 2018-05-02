@@ -95,5 +95,8 @@ japanese/english script: https://github.com/noroinohanako/makaiwars_4koma_transl
 
 <img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/translated/ep23_en.jpg">
 
+## 24_en.jpg
+
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/translated/ep24_en.jpg">
 
 

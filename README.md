@@ -745,6 +745,38 @@ Translator's note: Hatsumōde is the first Shinto shrine visit of the Japanese N
 |ヘルのご利用は計画的に〜|Please carefully plan out your usage of Hel~
 |置いてかないで〜|Don't leave me here~
 
+<img style="float: left;" src="https://raw.githubusercontent.com/noroinohanako/makaiwars_4koma_translations/master/img/ep24.png">
+
+## 24.png
+#### Panel 1
+|JP|EN|
+|---|---|
+|殿下〜　あたしたちにボイスが実装されましたよ〜|Prince~ They've included our voices now~
+|CV:半場友恵|Voice: Hanba Tomoe
+#### Panel 2
+|JP|EN|
+|---|---|
+|やはりオレさまがボイス一番のりだったな！|Of course, my voice is the best!
+|ハァーッ　ハッ　ハッ　ハッ|Haaah ha ha ha!
+|…アサギ姐さんを差し置いて　なんだか申し訳ないッス…|It's kinda inexcusable, for Asagi to be left out like this, dood...
+|CV:水橋かおり|Voice: Mizuhashi Kaori
+|CV:間島淳司|Voice: Majima Junji
+#### Panel 3
+|JP|EN|
+|---|---|
+|アサギちゃん元気だしてね〜|Asagi, cheer up okay~
+|大丈夫だよフロンちゃん！|I'm fine Flonne!
+|CV:笹本優子|Voice: Sasamoto Yuko
+#### Panel 4
+|JP|EN|
+|---|---|
+|主人公になるのに１３年も待ったんだもん…|I've waited 13 years to become the main character...
+|余裕！余裕！| It's fine! It's fine!
+|くるっ|Turn
+|CV:???|Voice: ???
+|声優|Voice Actors
+
+
 ## LICENSE
 <a name="license"></a>
 This is a free and unencumbered translation released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this translation, for any purpose, commercial or non-commercial, and by any means.
